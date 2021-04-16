@@ -4,6 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+
+https://netflix-clone-521e0.web.app/
+
 In the project directory, you can run:
 
 ### `yarn start`
